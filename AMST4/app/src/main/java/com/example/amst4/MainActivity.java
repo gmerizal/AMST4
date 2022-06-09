@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText txtNombre, txtApellido, txtUsuario, txtPasswd;
+    private EditText txtNombre, txtApellido, textUsuario, textPasswd;
     private Button btnLogin, btnRegistro;
 
     @Override
@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        txtUsuario = (EditText)findViewById(R.id.txtUsuario);
-        txtPasswd = (EditText)findViewById(R.id.txtPasswd);
+        textUsuario = (EditText)findViewById(R.id.textUsuario);
+        textPasswd = (EditText)findViewById(R.id.textPasswd);
 
         btnLogin = (Button)findViewById(R.id.btnLogin);
         btnRegistro = (Button)findViewById(R.id.btnRegistro);
