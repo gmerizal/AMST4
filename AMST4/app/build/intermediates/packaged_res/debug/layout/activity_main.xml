@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<<<<<<< HEAD
     <EditText
         android:id="@+id/txtUsuario"
         android:layout_width="332dp"
@@ -43,4 +44,67 @@
         android:text="Registro"
         tools:layout_editor_absoluteX="200dp"
         tools:layout_editor_absoluteY="501dp" />
+=======
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/textUsuario"
+                android:layout_width="332dp"
+                android:layout_height="48dp"
+                android:ems="10"
+                android:hint="Usuario"
+                android:inputType="textPersonName"
+                android:text="Usuario"
+                tools:ignore="MissingConstraints" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/textPasswd"
+                android:layout_width="334dp"
+                android:layout_height="50dp"
+                android:ems="10"
+                android:inputType="textPassword"
+                android:text="Contraseña"
+                android:hint="Passwd"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#2196F3"
+            android:layout_gravity="center_horizontal"
+            android:text="Login"
+            tools:ignore="MissingConstraints"
+            android:onClick="login"/>
+
+        <Button
+            android:id="@+id/btnRegistro"
+            android:layout_width="142dp"
+            android:layout_height="48dp"
+            android:background="#2196F3"
+            android:layout_gravity="center_horizontal"
+            android:text="Registro"
+            tools:ignore="MissingConstraints"
+            android:onClick="registrarse"/>
+
+    </LinearLayout>
+
+>>>>>>> origin
 </android.support.constraint.ConstraintLayout>

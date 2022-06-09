@@ -870,10 +870,17 @@ int id edit_query 0x7f070059
 int id editarAltura 0x7f07005a
 int id editarApellido 0x7f07005b
 int id editarCedula 0x7f07005c
+<<<<<<< HEAD
 int id editarClave 0x7f07005d
 int id editarEdad 0x7f07005e
 int id editarEmailAddress 0x7f07005f
 int id editarNombre 0x7f070060
+=======
+int id editarEdad 0x7f07005e
+int id editarEmailAddress 0x7f07005f
+int id editarNombre 0x7f070060
+int id editarPasswd 0x7f0700ed
+>>>>>>> origin
 int id editarPeso 0x7f070061
 int id editarUsuario 0x7f070062
 int id end 0x7f070063
@@ -987,10 +994,17 @@ int id text2 0x7f0700ce
 int id textAltura 0x7f0700cf
 int id textApellidos 0x7f0700d0
 int id textCedula 0x7f0700d1
+<<<<<<< HEAD
 int id textClave 0x7f0700d2
 int id textEdad 0x7f0700d3
 int id textEmail 0x7f0700d4
 int id textNombre 0x7f0700d5
+=======
+int id textEdad 0x7f0700d3
+int id textEmail 0x7f0700d4
+int id textNombre 0x7f0700d5
+int id textPasswd 0x7f0700ee
+>>>>>>> origin
 int id textPeso 0x7f0700d6
 int id textSpacerNoButtons 0x7f0700d7
 int id textSpacerNoTitle 0x7f0700d8
@@ -1005,8 +1019,11 @@ int id topPanel 0x7f0700e0
 int id transitionToEnd 0x7f0700e1
 int id transitionToStart 0x7f0700e2
 int id triangle 0x7f0700e3
+<<<<<<< HEAD
 int id txtPasswd 0x7f0700e4
 int id txtUsuario 0x7f0700e5
+=======
+>>>>>>> origin
 int id uniform 0x7f0700e6
 int id up 0x7f0700e7
 int id useLogo 0x7f0700e8
