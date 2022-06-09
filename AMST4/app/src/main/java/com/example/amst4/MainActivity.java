@@ -42,4 +42,32 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+    
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        switch (item.getItemId()) {
+            case R.id.calendar_view:
+                // codigo calendario
+                return true;
+            case R.id.video_view:
+                //codigo viddeo
+                return true;
+            case R.id.mapa:
+                // codigo mapa
+                return true;
+            case R.id.grafico:
+                //codigo grafico
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+   }
 }
