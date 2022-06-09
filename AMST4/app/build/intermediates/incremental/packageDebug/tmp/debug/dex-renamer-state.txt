@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+#Thu Jun 09 01:35:54 COT 2022
+base.0=C\:\\Users\\cessv\\Documents\\Trabajos app movil\\AMST4\\AMST4\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+=======
 #Thu Jun 09 11:56:32 COT 2022
 base.0=C\:\\Users\\Daniela\\Documents\\AMST4\\AMST4\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+>>>>>>> origin
 renamed.0=classes.dex
 path.0=classes.dex

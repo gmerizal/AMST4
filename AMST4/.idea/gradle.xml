@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="GradleMigrationSettings" migrationVersion="1" />
 =======
@@ -8,13 +11,18 @@
 =======
   <component name="GradleMigrationSettings" migrationVersion="1" />
 >>>>>>> 3fc846309303ee67bc1537f5b1f2904721df1861
+>>>>>>> origin
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+        <option name="gradleJvm" value="1.8" />
+=======
         <option name="gradleJvm" value="11" />
+>>>>>>> origin
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />

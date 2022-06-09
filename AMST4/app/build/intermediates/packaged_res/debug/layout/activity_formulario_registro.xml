@@ -208,14 +208,22 @@
             android:orientation="horizontal">
 
             <TextView
+<<<<<<< HEAD
+                android:id="@+id/textClave"
+=======
                 android:id="@+id/textPasswd"
+>>>>>>> origin
                 android:layout_width="217dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Clave:" />
 
             <EditText
+<<<<<<< HEAD
+                android:id="@+id/editarClave"
+=======
                 android:id="@+id/editarPasswd"
+>>>>>>> origin
                 android:layout_width="375dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
