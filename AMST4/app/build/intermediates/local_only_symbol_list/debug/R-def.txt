@@ -8,11 +8,16 @@ color teal_200
 color teal_700
 color white
 drawable aa
+drawable bg_btn
+drawable bg_calen
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id btnLogin
 id btnRegistro
+id button
 id buttonRegistro
+id calendarView_id
+id calendar_view
 id editarAltura
 id editarApellido
 id editarCedula
@@ -22,6 +27,9 @@ id editarNombre
 id editarPasswd
 id editarPeso
 id editarUsuario
+id grafico
+id mapa
+id myDate
 id textAltura
 id textApellidos
 id textCedula
@@ -31,11 +39,18 @@ id textNombre
 id textPasswd
 id textPeso
 id textUsuario
+<<<<<<< HEAD
+=======
+id video_view
+layout activity_calendar_view
+>>>>>>> origin
 layout activity_formulario_registro
 layout activity_main
+menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string calendario
 style Theme.AMST4
 xml backup_rules
 xml data_extraction_rules

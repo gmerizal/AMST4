@@ -8,6 +8,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">AMST4</string>
+    <string name="calendario">Calendario</string>
     <style name="Theme.AMST4" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

@@ -21,6 +21,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.AMST4" >
         <activity
+            android:name="com.example.amst4.CalendarView"
+            android:exported="false" />
+        <activity
             android:name="com.example.amst4.formulario_registro"
             android:exported="false" />
         <activity

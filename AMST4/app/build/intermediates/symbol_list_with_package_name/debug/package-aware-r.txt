@@ -762,6 +762,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable bg_btn
+drawable bg_calen
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -829,9 +831,12 @@ id bottom
 id bounce
 id btnLogin
 id btnRegistro
+id button
 id buttonPanel
 id buttonRegistro
 id cache_measures
+id calendarView_id
+id calendar_view
 id center
 id center_horizontal
 id center_vertical
@@ -886,6 +891,7 @@ id fill_vertical
 id flip
 id forever
 id gone
+id grafico
 id graph
 id graph_wrap
 id group_divider
@@ -912,10 +918,12 @@ id line3
 id linear
 id listMode
 id list_item
+id mapa
 id message
 id middle
 id motion_base
 id multiply
+id myDate
 id never
 id none
 id normal
@@ -1009,6 +1017,7 @@ id triangle
 id uniform
 id up
 id useLogo
+id video_view
 id visible
 id withText
 id wrap
@@ -1046,6 +1055,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_calendar_view
 layout activity_formulario_registro
 layout activity_main
 layout notification_action
@@ -1058,6 +1068,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description
@@ -1100,6 +1111,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string calendario
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
