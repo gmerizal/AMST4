@@ -3,7 +3,7 @@
     <item android:id="@+id/video_view"
         android:title="Video View" />
     <item android:id="@+id/calendar_view"
-        android:title="calendar_view" />
+        android:title="Calendar_view" />
     <item android:id="@+id/mapa"
         android:title="Mapa" />
     <item android:id="@+id/grafico"

@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;import
         android.support.v7.app.AppCompatActivity; import
         android.view.View;
-public class formulario_registro extends AppCompatActivity {@Override
+public class formulario_registro extends AppCompatActivity {
 protected void onCreate(Bundle savedInstanceState) { super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_formulario_registro );
 }

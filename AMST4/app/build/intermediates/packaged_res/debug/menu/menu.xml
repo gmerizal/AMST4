@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
-        <item android:id="@+id/video_view"
-              android:title="Video View" />
-        <item android:id="@+id/calendar_view"
-              android:title="Calendar View" />
-       <item  android:id="@+id/mapa"
-              android:title="Mapa" />
-       <item  android:id="@+id/grafico"
-              android:title="Grafico Lineal" />
+    <item android:id="@+id/video_view"
+        android:title="Video View" />
+    <item android:id="@+id/calendar_view"
+        android:title="Calendar_view" />
+    <item android:id="@+id/mapa"
+        android:title="Mapa" />
+    <item android:id="@+id/grafico"
+        android:title="Grafico Lineal" />
 
 </menu>

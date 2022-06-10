@@ -4,11 +4,7 @@
             "outputFile": "com.example.amst4.app-mergeDebugResources-7:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-<<<<<<< HEAD
-                    "source": "C:\\Users\\cessv\\.gradle\\caches\\transforms-3\\05de8c41fdde52fe1c7dc583b599de44\\transformed\\appcompat-v7-28.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-=======
                     "source": "C:\\Users\\Daniela\\.gradle\\caches\\transforms-3\\05de8c41fdde52fe1c7dc583b599de44\\transformed\\appcompat-v7-28.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
->>>>>>> origin
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

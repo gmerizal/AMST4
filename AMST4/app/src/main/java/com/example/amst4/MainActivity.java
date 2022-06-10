@@ -1,6 +1,7 @@
 package com.example.amst4;
 
 import android.content.Intent;
+import android.provider.CalendarContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -12,12 +13,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import java.util.GregorianCalendar;
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText txtNombre, txtApellido, textUsuario, textPasswd;
     private Button btnLogin, btnRegistro;
 
-    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -58,7 +60,14 @@ public class MainActivity extends AppCompatActivity {
         // Handle item selection
         switch (item.getItemId()) {
             case R.id.calendar_view:
-                // codigo calendario
+                Intent intent = new Intent(this, CalendarViewActivity.class);
+                intent.setType("vnd.android.cursor.item/event");
+                intent.putExtra(CalendarContract.Events.TITLE,"Fiesta");
+                intent.putExtra(CalendarContract.Events.EVENT_LOCATION, "Casa de Guillermo");
+                intent.putExtra(CalendarContract.Events.DESCRIPTION, "Una parrillada");
+                GregorianCalendar calDate = new GregorianCalendar(2022, 6, 10);
+                intent.putExtra(CalendarContract.EXTRA_EVENT_ALL_DAY,true);
+                startActivity(intent);
                 return true;
             case R.id.video_view:
                 //codigo viddeo
