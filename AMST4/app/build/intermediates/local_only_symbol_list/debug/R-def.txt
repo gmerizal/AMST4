@@ -39,8 +39,11 @@ id textNombre
 id textPasswd
 id textPeso
 id textUsuario
+<<<<<<< HEAD
+=======
 id video_view
 layout activity_calendar_view
+>>>>>>> origin
 layout activity_formulario_registro
 layout activity_main
 menu menu

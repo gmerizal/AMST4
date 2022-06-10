@@ -70,7 +70,8 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 return true;
             case R.id.video_view:
-                //codigo viddeo
+                Intent intent1 = new Intent(this, VideoViewActivity.class);
+                startActivity(intent1);
                 return true;
             case R.id.mapa:
                 // codigo mapa

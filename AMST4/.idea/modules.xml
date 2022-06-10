@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AMST4.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AMST4.app.main.iml" />
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AMST4.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AMST4.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Trabajos app movil.AMST4.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Trabajos app movil.AMST4.app.main.iml" />
+=======
+>>>>>>> origin
     </modules>
   </component>
 </project>

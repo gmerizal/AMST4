@@ -49,21 +49,21 @@
             android:id="@+id/btnLogin"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="#2196F3"
             android:layout_gravity="center_horizontal"
+            android:background="#2196F3"
+            android:onClick="login"
             android:text="Login"
-            tools:ignore="MissingConstraints"
-            android:onClick="login"/>
+            tools:ignore="MissingConstraints" />
 
         <Button
             android:id="@+id/btnRegistro"
             android:layout_width="142dp"
             android:layout_height="48dp"
-            android:background="#2196F3"
             android:layout_gravity="center_horizontal"
+            android:background="#2196F3"
+            android:onClick="registrarse"
             android:text="Registro"
-            tools:ignore="MissingConstraints"
-            android:onClick="registrarse"/>
+            tools:ignore="MissingConstraints" />
 
     </LinearLayout>
 
