@@ -871,17 +871,10 @@ id edit_query
 id editarAltura
 id editarApellido
 id editarCedula
-<<<<<<< HEAD
-id editarClave
-id editarEdad
-id editarEmailAddress
-id editarNombre
-=======
 id editarEdad
 id editarEmailAddress
 id editarNombre
 id editarPasswd
->>>>>>> origin
 id editarPeso
 id editarUsuario
 id end
@@ -995,17 +988,10 @@ id text2
 id textAltura
 id textApellidos
 id textCedula
-<<<<<<< HEAD
-id textClave
-id textEdad
-id textEmail
-id textNombre
-=======
 id textEdad
 id textEmail
 id textNombre
 id textPasswd
->>>>>>> origin
 id textPeso
 id textSpacerNoButtons
 id textSpacerNoTitle
@@ -1020,11 +1006,6 @@ id topPanel
 id transitionToEnd
 id transitionToStart
 id triangle
-<<<<<<< HEAD
-id txtPasswd
-id txtUsuario
-=======
->>>>>>> origin
 id uniform
 id up
 id useLogo

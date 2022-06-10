@@ -4,11 +4,7 @@
             "outputFile": "com.example.amst4.app-mergeDebugResources-7:/values-es/values-es.xml",
             "map": [
                 {
-<<<<<<< HEAD
                     "source": "C:\\Users\\cessv\\.gradle\\caches\\transforms-3\\05de8c41fdde52fe1c7dc583b599de44\\transformed\\appcompat-v7-28.0.0\\res\\values-es\\values-es.xml",
-=======
-                    "source": "C:\\Users\\Daniela\\.gradle\\caches\\transforms-3\\05de8c41fdde52fe1c7dc583b599de44\\transformed\\appcompat-v7-28.0.0\\res\\values-es\\values-es.xml",
->>>>>>> origin
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -18,11 +14,7 @@
                     }
                 },
                 {
-<<<<<<< HEAD
                     "source": "C:\\Users\\cessv\\.gradle\\caches\\transforms-3\\85e8df90276e95c75de3fa04945b018a\\transformed\\support-compat-28.0.0\\res\\values-es\\values-es.xml",
-=======
-                    "source": "C:\\Users\\Daniela\\.gradle\\caches\\transforms-3\\85e8df90276e95c75de3fa04945b018a\\transformed\\support-compat-28.0.0\\res\\values-es\\values-es.xml",
->>>>>>> origin
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
